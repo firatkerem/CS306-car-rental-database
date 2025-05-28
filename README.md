@@ -134,7 +134,3 @@ UPDATE Employee SET salary = salary + 1000 WHERE emp_id = 300;
 SELECT * FROM SalaryChangeLog ORDER BY log_id DESC LIMIT 1;
 ```
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. 
->>>>>>> Stashed changes
