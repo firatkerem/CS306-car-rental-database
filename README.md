@@ -1,5 +1,3 @@
-# CS306-car-rental-database
-=======
 # Araç Kiralama Sistemi
 
 Bu proje, bir araç kiralama sisteminin veritabanı işlemlerini gerçekleştiren ve web arayüzü sunan bir Flask uygulamasıdır. Sistem, müşteri rezervasyonlarını yönetme, araç takibi, çalışan performans raporları ve araç hasar/bakım takibini gerçekleştirir.
