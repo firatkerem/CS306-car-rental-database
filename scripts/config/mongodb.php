@@ -3,7 +3,7 @@ require_once '/var/www/html/vendor/autoload.php';
 
 try {
     // MongoDB Atlas bağlantısı
-    $mongoClient = new MongoDB\Client("mongodb+srv://admin:admin123@cluster0.fxxmwk3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
+    $mongoClient = new MongoDB\Client("mongodb+srv://<username>:<password>@cluster0.fxxmwk3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
     
     // Veritabanı ve koleksiyon seçimi
     $database = $mongoClient->selectDatabase('car_rental_tickets');
