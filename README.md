@@ -2,6 +2,12 @@
 
 Bu proje, bir araç kiralama sisteminin veritabanı işlemlerini gerçekleştiren ve web arayüzü sunan bir PHP uygulamasıdır. Sistem, müşteri rezervasyonlarını yönetme, araç takibi, çalışan performans raporları ve araç hasar/bakım takibini gerçekleştirir.
 
+## User Panel
+![User Panel Screenshot](/userpanel.png)
+
+## Admin Panel
+![Admin Panel Screenshot](/adminpanel.png)
+
 ## Özellikler
 
 - **Rezervasyon Yönetimi:** Müşteriler için manuel ID ile yeni rezervasyon oluşturma.
